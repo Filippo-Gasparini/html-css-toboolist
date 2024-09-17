@@ -1,9 +1,8 @@
-    * {
-    box-sizing: 0;
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-
-  }
+}
 
 
 .conteiner {
@@ -12,6 +11,10 @@
     margin: auto ; 
  
 }
-.name-list {
+.vertical-align-middle {
     vertical-align: middle;
+}
+
+.display-inline {
+    display: inline;
 }
