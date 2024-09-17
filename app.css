@@ -8,7 +8,8 @@
 .conteiner {
     background-color: aquamarine;
     color:rgb(8, 126, 228);
-    margin: 30px; 
+    margin-top: 40px; 
+    border-radius: 20px;
  
 }
 .vertical-align-middle {
@@ -20,3 +21,10 @@
 }
 
 
+.calendar {
+    background-color:aquamarine;
+    border-radius: 20px;
+    max-width: 500px;
+    padding: 32px;
+    margin: 0 auto;
+}
