@@ -5,6 +5,14 @@
   }
 
   
-  body {
-    font-family: "kanit";
-  }
+  * {
+    box-sizing: 0;
+    margin: 0;
+    padding;
+
+
+.conteiner {
+    color:aquamarine;
+    margin: 80px;
+    
+}
